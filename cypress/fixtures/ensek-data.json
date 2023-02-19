@@ -1,0 +1,17 @@
+{
+  "baseUrl": "https://ensekautomationcandidatetest.azurewebsites.net/",
+  "env": {   
+  "user_register_email": "weblogic.sree@gmail.com",
+  "user_register_password": "Pass@123",
+  "user_register_password_notsame": "Pass@1234",
+  "password-not-match-error": "The password and confirmation password do not match.",
+  "register-success-confirmation": "Error",
+  "registerpage-subhead-text": "Create a new account.",
+  "login-success-confirmation": "Error",
+  "ensek-homepage-url": "ensek.com",
+  "ensek-buyenergy-url": "/Energy/Buy",
+  "ensek-sellenergy-url": "/Energy/Sell",
+  "ensek-about-url": "/Home/About",
+  "amount_purchased": "50"
+  }
+}
