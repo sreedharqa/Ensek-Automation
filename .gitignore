@@ -1,0 +1,9 @@
+#cypress test reports and env files
+reports
+screenshots
+videos
+results
+cypress/downloads/
+
+# Node.js Tools
+node_modules
